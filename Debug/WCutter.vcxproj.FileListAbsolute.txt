@@ -1,0 +1,2 @@
+C:\Users\Kim Järvinen\source\repos\WCutter\Debug\WCutter.exe
+C:\Users\Kim Järvinen\source\repos\WCutter\Debug\WCutter.pdb
