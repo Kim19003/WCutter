@@ -1,0 +1,4 @@
+﻿  WCutter.cpp
+D:\stuff\- GITHUB -\WCutter\WCutter.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\stuff\- GITHUB -\WCutter\WCutter.cpp(50,27): warning C4018: '<': signed/unsigned mismatch
+  WCutter.vcxproj -> D:\stuff\- GITHUB -\WCutter\Debug\WCutter.exe
