@@ -1,0 +1,3 @@
+﻿  WCutter.cpp
+C:\Users\Kim Järvinen\Documents\GitHub\WCutter\Data\WCutter.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  WCutter.vcxproj -> C:\Users\Kim Järvinen\Documents\GitHub\WCutter\Data\x64\Debug\WCutter.exe

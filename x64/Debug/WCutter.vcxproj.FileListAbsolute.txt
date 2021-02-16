@@ -1,0 +1,2 @@
+C:\Users\Kim Järvinen\Documents\GitHub\WCutter\Data\x64\Debug\WCutter.exe
+C:\Users\Kim Järvinen\Documents\GitHub\WCutter\Data\x64\Debug\WCutter.pdb
