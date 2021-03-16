@@ -2,3 +2,5 @@ C:\Users\Kim Järvinen\source\repos\WCutter\Debug\WCutter.exe
 C:\Users\Kim Järvinen\source\repos\WCutter\Debug\WCutter.pdb
 D:\stuff\- GITHUB -\WCutter\Debug\WCutter.exe
 D:\stuff\- GITHUB -\WCutter\Debug\WCutter.pdb
+C:\Users\Kim Järvinen\Documents\GitHub\WCutter\Debug\WCutter.exe
+C:\Users\Kim Järvinen\Documents\GitHub\WCutter\Debug\WCutter.pdb

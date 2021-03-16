@@ -8,10 +8,22 @@
 
 using namespace std;
 
+void Completed()
+{
+    cout << "\n-----------------" << endl;
+    cout << "Process complete!" << endl;
+    cout << "-----------------" << endl;
+}
+
+void UnexpectedError()
+{
+    cout << "\nAn unexpected error occurred." << endl;
+}
+
 int main()
 {
     fstream to_read, to_write;
-    string path, str, to_remove1, to_remove2, a, b, n;
+    string path, str, to_remove1, to_remove2, a, b, n, end;
     vector<string> words;
 
     cout << "###############\n### WCutter ###\n###############" << endl;
@@ -103,9 +115,7 @@ int main()
                 }
             }
 
-            cout << "\n-----------------" << endl;
-            cout << "Process complete!" << endl;
-            cout << "-----------------" << endl;
+            Completed();
         }
         else if (b == "2")
         {
@@ -131,20 +141,20 @@ int main()
                 }
             }
 
-            cout << "\n-----------------" << endl;
-            cout << "Process complete!" << endl;
-            cout << "-----------------" << endl;
+            Completed();
         }
         else
         {
-            cout << "\nAn unexpected error occurred." << endl;
+            UnexpectedError();
         }
     }
     else
     {
-        cout << "\nAn unexpected error occurred." << endl;
+        UnexpectedError();
     }
     to_write.close();
+
+    getline(cin, end);
 
     return 0;
 }
